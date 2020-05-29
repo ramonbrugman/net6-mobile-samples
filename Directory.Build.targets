@@ -1,4 +1,4 @@
 <Project>
-  <Import Condition="$(RuntimeIdentifier.StartsWith('android'))" Project="Directory.Android.targets" />
+  <Import Project="Directory.Android.targets" />
   <Import Condition="$(RuntimeIdentifier.StartsWith('ios'))"     Project="Directory.iOS.targets" />
 </Project>
