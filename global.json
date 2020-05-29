@@ -1,6 +1,6 @@
 {
     "msbuild-sdks": {
             "Microsoft.iOS.Sdk": "13.4.100-ci.net5-preview-net5build.4",
-            "Microsoft.Android.Sdk": "10.0.100-ci.wip-multiple-rid.47"
+            "Microsoft.Android.Sdk": "10.0.100-ci.wip-multiple-rid.53"
     }
 }
